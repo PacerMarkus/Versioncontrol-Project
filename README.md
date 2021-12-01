@@ -2,16 +2,17 @@
 
 ### Date created
 Include the date you created this project and README file.
+Created on first december 2021
 
-### Project Title
+### Project 3 from PacerMarkus
 Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
+Its about learning the versioncontrol commands and making changes to the bikeshare Project
 
 ### Files used
 Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
