@@ -4,7 +4,7 @@
 Include the date you created this project and README file.
 Created on first december 2021
 
-### Project 3 from PacerMarkus
+### Commandline-project from PacerMarkus
 Replace the Project Title
 
 ### Description
@@ -20,3 +20,4 @@ washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to the whole udacity team for setting up this fantastic course! 
