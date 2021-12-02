@@ -169,11 +169,11 @@ def show_data(df):
     print(df.head())
     next = 0
     while True:
-        view_raw_data = input('\nThere are more information. Would you like to see the next five rows? yes / no.\n')
+        view_raw_data = input('\nThere are more information. Would you like to see the row? yes / no.\n')
         if view_raw_data.lower() != 'yes':
             return
-        next = next + 5
-        print(df.iloc[next:next+5])
+        next = next + 1
+        print(df.iloc[next:next+1])
 
 
 def main():
@@ -186,7 +186,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df, city)
         while True:
-            view_raw_data = input('\nThere are more information. Would you like to see the next five rows? yes / no.\n')
+            view_raw_data = input('\nThere are more information. Would you like to see the next row? yes / no.\n')
             if view_raw_data.lower() != 'yes':
                 break
             show_data(df)
